@@ -1,8 +1,5 @@
+sdgdgsg
+gsdg
+fsdffdsgdsg
 
-dfsdgssdsg
-fdsgdsg
-fdsgdsg
-
-print('testing')
-print('aqwdfd')
-print('fdf')
+dgsdgfsgfg
